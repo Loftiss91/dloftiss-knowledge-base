@@ -1,9 +1,9 @@
 ---
 title: Template for Knowledge Base Docs Websites
 ---
-## The index page
+## Computer Gaming
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+I chose computer gaming as my topic because it has been something that I have enjoyed for over 10 years. 
 
 ## Editing pages
 
