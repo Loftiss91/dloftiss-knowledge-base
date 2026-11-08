@@ -7,17 +7,17 @@ I chose computer gaming as my topic because it has been something that I have en
 
 ## Main Categories
 
--[[pc-hardware-os/index|PC Hardware & Operating System]]
+- [[pc-hardware-os/index|PC Hardware & Operating System]]
 
--[[software-updates/index|Software & Updates]]
+- [[software-updates/index|Software & Updates]]
 
--[[peripherals/index|Peripherals]]
+- [[peripherals/index|Peripherals]]
 
--[[internet/index|Internet]]
+- [[internet/index|Internet]]
 
--[[launchers-libraries/index|Launchers & Libraries]]
+- [[launchers-libraries/index|Launchers & Libraries]]
 
--[[games/index|Games]]
+- [[games/index|Games]]
 
 
 
