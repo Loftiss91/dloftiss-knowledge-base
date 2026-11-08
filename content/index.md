@@ -5,6 +5,16 @@ title: Template for Knowledge Base Docs Websites
 
 I chose computer gaming as my topic because it has been something that I have enjoyed for over 10 years. 
 
+## Main Categories
+
+-[[pc-hardware-os/index|PC Hardware & Operating System]]
+-[[software-updates/index|Software & Updates]]
+-[[peripherals/index|Peripherals]]
+-[[internet/index|Internet]]
+-[[launchers-libraries/index|Launchers & Libraries]]
+-[[games/index|Games]]
+
+
 ## Editing pages
 
 You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
