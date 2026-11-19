@@ -23,6 +23,6 @@ Gray Zone Warfare and [[escape-from-tarkov|Escape from Tarkov]] share a few othe
 
 The weapon customization in both of these games is unmatched, the possibilities are endless! Every individual attachment can alter that weapon's stats, forcing you to make decisions based on how you want to play. Need better recoil? You will have to sacrifice that weapons time to aim-down-sights! 
 
-![Weapon customization screen in Gray Zone Warfare](gzw.png)
+![Weapon customization screen in Gray Zone Warfare|300x450](gzw.png) ![Weapon customization screen in Escape from Tarkov|300x450](tarkov.png)
 
-![Weapon customization screen in Escape from Tarkov](tarkov.png)
+*Left: Gray Zone Warfare | Right: Escape from Tarkov* 
